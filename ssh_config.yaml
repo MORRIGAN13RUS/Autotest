@@ -1,0 +1,16 @@
+folder_in: /home/user2/test/in
+folder_out: /home/user2/test/out
+folder_ext: /home/user2/test/folder1
+folder_ext2: /home/user2/test/folder2
+folder_bad_out: /home/user2/test/bad_out
+log: /home/user2/test
+
+host: 0.0.0.0
+user: user2
+passwd: '11'
+local_path: /home/user
+remote_path: /home/user2
+
+count: 5
+bs: 1M
+type: zip
